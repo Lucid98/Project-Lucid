@@ -1,0 +1,8 @@
+000 None
+001 Heal
+002 Inflict
+003 Equip
+004 Discard
+005 Unlock
+006 Unequip
+007 Reload

@@ -1,0 +1,7 @@
+﻿000 None
+001 Handgun
+002 Shotgun
+003 Crossbow
+004 Blade
+005 Engine Blade
+006 Hammer

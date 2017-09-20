@@ -1,0 +1,24 @@
+﻿Item Format
+ID (5) | Item Type (2) | Access (15) | Modifier (50) | Name (30) | Description
+
+Healing Items
+Item Type: 01
+Access: 001 Heal | 004 Discard
+Modifier: Heal amount
+
+Weapons
+Item Type: 03
+Access: 003 Equip | 006 Unequip | 004 Discard
+Modifier: First 40 digits
+		  Damage (5)
+          Accuracy (3)
+		  CON (4)
+		  STR (4)
+		  DEX (4)
+		  LUK (4)
+		  INT (4)
+		  WIS (4)
+		  AGL (4)
+		  Capacity (4)
+		  Weapon Type (3)
+***Stat - 4 digits >>> Digit 1 - 2 Negative, 1 Positive, 0 None | Digit 2-4 Value

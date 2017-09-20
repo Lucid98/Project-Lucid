@@ -1,0 +1,14 @@
+﻿7 TYPES OF STATS
+CON, STR, DEX, LUK, INT, WIS, AGL
+
+Health: 100 + (CON x 2)
+Min Atk: Weapon Attack + (STR x 0.2) + (DEX x 0.5)
+Max Atk: Weapon Attack + (STR x 1.5)
+Magic Atk: INT x 8.5
+Defense: (STR x 0.005) + (CON x 0.1)
+Magic Def: (CON x 0.1) + (INT x 2)
+Accuracy: Weapon Accuracy + (DEX x 0.05)
+Evasion: AGL x 0.3
+Stamina: 100 + (WIS x 0.5)
+Critical Chance: 1 + (LUK x 0.15)
+Critical Damage Multiplier: (LUK * 0.02) + (STR * 0.005) + (DEX * 0.001)

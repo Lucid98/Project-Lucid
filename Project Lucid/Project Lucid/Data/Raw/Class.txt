@@ -1,0 +1,6 @@
+﻿00001 Police
+00002 Archer
+00003 Rogue
+00004 Android
+00005 Scientist
+00006 Zombie

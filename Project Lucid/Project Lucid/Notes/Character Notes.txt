@@ -1,0 +1,2 @@
+﻿Character Format
+ID (5) | Class Type (5) | Stats | Name

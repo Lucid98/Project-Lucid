@@ -1,0 +1,5 @@
+﻿00001 Healthy
+00002 Wounded
+00003 Bleeding
+00004 Poisoned
+00005 Infected

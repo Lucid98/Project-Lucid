@@ -1,0 +1,49 @@
+﻿=====================================================================================================================================
+>>> HANDGUN
+
+Handgun                       Beretta                       Golden Handgun                 Metra Handgun
+Damage: 40 | Accuracy: 95     Damage: 55 | Accuracy: 97     Damage: 150 | Accuracy: 65     Damage: 200 | Accuracy: 75
+Stat(s): None                 Stat(s): +10 DEX              Stat(s): +25 LUK               Stat(s): None
+Capacity: 20                  Capacity: 12                  Capacity: 5                    Capacity: 10
+
+=====================================================================================================================================
+>>> SHOTGUN
+
+Shotgun                       Assault Shotgun                Winchester                     Hydra
+Damage: 95 | Accuracy: 80     Damage: 110 | Accuracy: 75     Damage: 90 | Accuracy: 100     Damage: 155 | Accuracy: 70
+Stat(s): None                 Stat(s): +10 STR               Stat(s): +20 DEX               Stat(s): +15 STR, -55 INT, -55 WIS
+Capacity: 9                   Capacity: 6                    Capacity: 8                    Capacity: 2
+
+=====================================================================================================================================
+>>> CROSSBOW
+
+Crossbow                               Sighted Crossbow                                         Blue Crossbow
+Damage: 225 | Accuracy: 90             Damage: 220 | Accuracy: 95                               Damage: 250 | Accuracy: 80
+Stat(s): +10 STR, +20 DEX, -30 INT     Stat(s): +100 DEX, -5 LUK, -50 INT, -50 WIS, -15 AGL     Stat(s): +55 STR, -100 INT
+Capacity: 1                            Capacity: 1                                              Capacity: 1
+
+=====================================================================================================================================
+>>> BLADE
+
+Knife                         Katana                         Cursed Sword
+Damage: 20 | Accuracy: 90     Damage: 120 | Accuracy: 80     Damage: 300 | Accuracy: 70
+Stat(s): +5 AGL               Stat(s): +25 STR, +5 AGL       Stat(s): +150 STR, -50 DEX, -50 LUK, -100 INT, -100 WIS
+Capacity: 0                   Capacity: 0                    Capacity: 0
+
+=====================================================================================================================================
+>>> ENGINE BLADE
+
+Siegfried's Blade              Mekblade
+Damage: 500 | Accuracy: 90     Damage: 155 | Accuracy: 100
+Stat(s): None                  Stat(s): None
+Capacity: 100                  Capacity: 100
+
+=====================================================================================================================================
+>>> HAMMER
+
+Hammer                                                        Golden Hammer
+Damage: 550 | Accuracy: 60                                    Damage: 55 | Accuracy: 100
+Stat(s): +100 STR, -100 DEX, -100 INT, -100 WIS, -100 AGL     Stat(s): +255 AGL
+Capacity: 0                                                   Capacity: 0
+
+=====================================================================================================================================

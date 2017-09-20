@@ -1,0 +1,25 @@
+c:\users\cheng\documents\visual studio 2015\Projects\Project Lucid\Project Lucid\bin\Debug\Project Lucid.exe.config
+W:\Project Lucid\Project Lucid\bin\Debug\Project Lucid.exe.config
+W:\Project Lucid\Project Lucid\bin\Debug\Project Lucid.exe
+W:\Project Lucid\Project Lucid\bin\Debug\Project Lucid.pdb
+W:\Project Lucid\Project Lucid\obj\Debug\Project Lucid.csprojResolveAssemblyReference.cache
+W:\Project Lucid\Project Lucid\obj\Debug\Project_Lucid.GameClient.resources
+W:\Project Lucid\Project Lucid\obj\Debug\Project_Lucid.Properties.Resources.resources
+W:\Project Lucid\Project Lucid\obj\Debug\Project Lucid.csproj.GenerateResource.Cache
+W:\Project Lucid\Project Lucid\obj\Debug\Project Lucid.exe
+W:\Project Lucid\Project Lucid\obj\Debug\Project Lucid.pdb
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Home Game Studio Title.png
+W:\Project Lucid\Project Lucid\bin\Debug\Data\Raw\Access.txt
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Visual Studio Title.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\White Screen.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Title Menu Background 1.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Title Menu Background 2.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Title Menu Background 3.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Title Menu Background 4.png
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Title Menu Background 5.png
+W:\Project Lucid\Project Lucid\obj\Debug\Interop.WMPLib.dll
+W:\Project Lucid\Project Lucid\obj\Debug\Project Lucid.csproj.ResolveComReference.cache
+W:\Project Lucid\Project Lucid\bin\Debug\Audio\Main Menu\Main Menu Theme.mp3
+W:\Project Lucid\Project Lucid\bin\Debug\Audio\Main Menu\Title Menu Select.mp3
+W:\Project Lucid\Project Lucid\bin\Debug\Images\Title\Play Menu Background.png
+W:\Project Lucid\Project Lucid\bin\Debug\Audio\Main Menu\Title Menu Click.mp3

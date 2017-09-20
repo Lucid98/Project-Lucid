@@ -1,0 +1,4 @@
+﻿00 N/A
+01 Medicine
+02 Key
+03 Weapon
